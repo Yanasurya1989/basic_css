@@ -1,8 +1,26 @@
 div{
-    width: 200px;
-    height: 200px;
+    width: 600px;
+    margin: 10px auto;
+    box-sizing: border-box;
+}
+
+.satu{
+    width: 220px;
+    height: 220px;
     background: coral;
     margin: 20px auto;
-    padding: 40px 30px 20px 35px;
+    padding: 7px 9px 4px 3px;
     border: 5px solid black;
+}
+
+.dua{
+    background-color: royalblue;
+    padding: 10px;
+    border: 5px solid red;
+}
+
+.tiga{
+    background-color: lightgreen;
+    padding: 30px;
+    border: 10px dashed orange;
 }
