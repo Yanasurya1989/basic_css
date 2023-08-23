@@ -1,0 +1,41 @@
+.satoe{
+    width: 200px;
+    height: 200px;
+    background: lightblue;
+}
+
+.satu{
+    width: 200px;
+    height: 200px;
+    background: pink;
+}
+
+.dua{
+    width: 100%;
+    background: aqua;
+}
+
+.ov_visible{
+    width: 200px;
+    height: 200px;
+    background: pink;
+    overflow: visible;
+}
+.ov_auto{
+    width: 200px;
+    height: 200px;
+    background: pink;
+    overflow: auto;
+}
+.ov_hidden{
+    width: 200px;
+    height: 200px;
+    background: pink;
+    overflow: hidden;
+}
+.ov_scroll{
+    width: 200px;
+    height: 200px;
+    background: pink;
+    overflow: scroll;
+}
