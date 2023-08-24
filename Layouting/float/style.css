@@ -1,0 +1,88 @@
+.container {
+    width: 600px;
+    border: 3px solid black;
+    margin: auto;
+    padding: 5px;
+}
+
+.satu, .dua, .tiga{
+    width: 100px;
+    height: 100px;
+}
+
+.satu{
+    background-color: salmon;
+}
+
+.dua{
+    background-color: lightblue;
+    /* float: left; */
+    float: right;
+}
+
+.tiga{
+    background-color: lightgreen;
+}
+
+.containerDua {
+    width: 600px;
+    border: 3px solid black;
+    margin: auto;
+    padding: 5px;
+}
+
+.containerDua img{
+    float: left;
+    margin: 5px;
+}
+
+.containerThree {
+    width: 600px;
+    border: 3px solid black;
+    margin: auto;
+    padding: 5px;
+}
+
+.kotak {
+    width: 80px;
+    height: 80px;
+    text-align: center;
+    font-size: 30px;
+    background-color: salmon;
+    color: white;
+    line-height: 80px;
+    margin: 2px;
+    float: right;
+    /* float: left; */
+}
+
+.containerFour {
+    width: 800px;
+    border: 3px solid black;
+    margin: auto;
+    padding: 5px;
+}
+
+.kiri{
+    width: 150px;
+    background-color: salmon;
+    height: 300px;
+    float: left;
+    padding: 10px;
+    box-sizing: border-box;
+}
+.tengah{
+    width: 500px;
+    background-color: lightblue;
+    height: 300px;
+    float: left;
+}
+.kanan{
+    width: 150px;
+    background-color: lightgreen;
+    height: 300px;
+    float: left;
+}
+
+
+
