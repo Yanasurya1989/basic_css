@@ -6,6 +6,7 @@ div {
 
 .satu {
     background-color: salmon;
+    /* z-index hanya akna berpengaruh pada komponen yang memiliki position non static */
     z-index: 3;
 }
 
